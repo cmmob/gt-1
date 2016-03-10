@@ -5,4 +5,7 @@ line 2
 line 3 (for branch1)
 
 line 5 for stash
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
